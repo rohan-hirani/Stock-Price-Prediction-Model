@@ -12,7 +12,7 @@ print("Hello my Name is Rohan")
 """
 Created on Fri Nov  1 15:59:33 2019
 
-@author: ashank
+@author: Rohan
 """
 
 import numpy as np
